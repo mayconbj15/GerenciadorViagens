@@ -1,0 +1,4 @@
+
+Ksquid:S2789%"(Remove this null-check of an "Optional".(Çê½šþÿÿÿÿ8ýž¡Çä-
+Xsquid:S3655("5Call "viagem.isPresent()" before accessing the value.(å†ˆøþÿÿÿÿ8‡û¢Çä-
+gsquid:S2583%"DChange this condition so that it does not always evaluate to "false"(Çê½šþÿÿÿÿ8®ÆåÇä-
